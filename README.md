@@ -5,7 +5,7 @@ An interactive resume designed to demonstrate technical proficiency, work experi
 🖥️ **Interactive Dashboard:** 
 https://public.tableau.com/views/JeremyBurkes-InteractiveResume/InteractiveResume?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
-![Project Screenshot](https://github.com/jburkes1/Business-Intelligence-for-Urban-Forestry-Operations/blob/6a777afa480471679dce665faa85e9d7ac0b73d3/images/Business%20Intelligence%20Dashboard%20for%20Urban%20Forestry.png)
+![Project Screenshot](https://github.com/jburkes1/My-Interactive-Resume/blob/8752875a6c592ce0713df9211c525a2cfe909d08/images/Preview%20Photo%20-%20My%20Interactive%20Resume.png)
 
 **Data Visualization:** Tableau Public
 
